@@ -1,4 +1,4 @@
-# Your First Progressive Web App Codelab
+# Your First Progressive Web App Codelab [COMPLETED]
 
 These are the resource files needed for the
 [Your First Progressive Web App][codelab] codelab.
